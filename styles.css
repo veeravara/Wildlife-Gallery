@@ -1,0 +1,25 @@
+
+h1{
+    display: flex;
+    justify-content: center;
+    font-family: 'Fauna One', serif;
+    font-size: 3.8rem;
+    color: rgb(146, 8, 31);
+    
+}
+img{
+    padding: 0.7em;
+    width: 30vw;
+    height: 47vh;
+    min-width: 30vw;
+
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
