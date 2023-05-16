@@ -5,14 +5,20 @@ h1{
     font-family: 'Fauna One', serif;
     font-size: 3.8rem;
     color: rgb(146, 8, 31);
-    
+
 }
+
+
 img{
     padding: 0.7em;
     width: 30vw;
     height: 47vh;
     min-width: 30vw;
+    transition:all 1s;
 
+}
+img:hover{
+    transform: scale(1.04);
 }
 .container{
     display: flex;
